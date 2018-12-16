@@ -1,3 +1,5 @@
+// Created with CrossMapUpdater 1.1 developed by Marko97. Special thanks for ImShotZz and Revan600.
+
 uint64_t __HASHMAPDATA[] = {
 0xF9E56683CA8E11A5, 0xE03F95BCE7BE67AD,
 0x1E8E5E20937E3137, 0x5478521AC20DB43C,
